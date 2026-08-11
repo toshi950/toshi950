@@ -1,16 +1,24 @@
-## Hi there 👋
+# Toshiki Iida | CPA (Japan) × DB Specialist
 
-<!--
-**toshi950/toshi950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇯🇵 金融機関の会計監査に6年従事。Alteryx/KNIME/Power BIを用いた監査自動化の
+設計・実装や、EUC/プログラムロジックの検証を実務として行ってきました。
+現在は個人開発として、AI・データ活用の実装力を独学で拡張中です。
 
-Here are some ideas to get you started:
+🇬🇧 6 years of experience in financial services audit. Designed and
+implemented audit automation using Alteryx/KNIME/Power BI, and verified
+EUC/program logic against accounting requirements. Currently extending
+my AI/data implementation skills through self-directed projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 実務での経験 / Professional Experience
+Alteryx (ログ全件調査モジュール自作 / built full-log audit modules) ·
+KNIME移行リード / KNIME migration lead ·
+EUCロジック検証(SAS/VBA/Python) / EUC logic verification (SAS/VBA/Python) ·
+Power BI · RPA
+
+## 🌱 個人開発ログ（学習・検証段階）/ Personal Build Log (learning & validation stage)
+- [ ] 英語学習自動化ツール / English learning automation tool（着手中 / in progress）
+- [ ] 情報収集自動化ツール / Personalized information-gathering tool
+- [ ] 保険ディスクロージャーBI化 / Insurance disclosure BI visualization
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/toshiki-iba636a140)
