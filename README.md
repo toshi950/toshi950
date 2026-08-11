@@ -15,10 +15,5 @@ KNIME移行リード / KNIME migration lead ·
 EUCロジック検証(SAS/VBA/Python) / EUC logic verification (SAS/VBA/Python) ·
 Power BI · RPA
 
-## 🌱 個人開発ログ（学習・検証段階）/ Personal Build Log (learning & validation stage)
-- [ ] 英語学習自動化ツール / English learning automation tool（着手中 / in progress）
-- [ ] 情報収集自動化ツール / Personalized information-gathering tool
-- [ ] 保険ディスクロージャーBI化 / Insurance disclosure BI visualization
-
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/toshiki-iba636a140)
