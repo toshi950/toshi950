@@ -20,4 +20,4 @@ Power BI · RPA
 - [ ] 保険ディスクロージャーBI化 / Insurance disclosure BI visualization
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/toshiki-iba636a140)
+[LinkedIn](https://www.linkedin.com/in/toshiki-i-ba636a140)
